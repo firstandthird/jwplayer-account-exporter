@@ -1,4 +1,4 @@
-Allows you to download all videos (up to 10k per site id) from a jwplayer account.
+Allows you to download all videos (up to 10k per property id) from a jwplayer account.
 
 Copy config.json.example to config.json and fill in options.
 
