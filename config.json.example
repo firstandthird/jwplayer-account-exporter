@@ -1,0 +1,9 @@
+{
+  "token": "<api token>",
+  "sites": [
+    { "id": "<property id>", "name": "<property name>" },
+  ],
+  "path": "<full path where files will be downloaded, no trailing slash>",
+  "maxResolution": 1920,
+  "parallelDownloads": 5
+}
